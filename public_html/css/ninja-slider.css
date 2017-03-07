@@ -54,7 +54,6 @@
     background-size:contain;/*Note: If transitionType is zoom, it will be overridden to cover.*/
 
     /*box-shadow: 0 1px 5px rgba(0,0,0,.8),inset 0 0 2px rgba(255,255,255,.4);*/
-    border-radius:4px;
 
     cursor:default;
     display:block;
@@ -69,12 +68,12 @@
 /*---------- Captions -------------------*/
 
 #ninja-slider .caption {
-    font-size:10em;
+    font-size:9em;
     font-family: 'Bree Serif', sans-serif;
     position:absolute;
     width:100%;
     text-align:center;
-    color:rgba(255,255,255,0.8);
+    color:rgba(255,255,255,1);
     bottom:20%;
 }
 #ninja-slider li.ns-show .caption {
@@ -213,4 +212,30 @@ div.navsWrapper {
         font-size:3em;
     }
 }
+
+
+/*Custom rules*/
+#ninja-slider-container{
+    width: 100%;
+    background-color: #111;
+}
+
+#ninja-slider ul {
+    margin-bottom: 0px;
+}
+
+#ninja-slider .ns-img{
+    opacity: .9;
+}
+
+
+
+
+
+
+
+
+
+
+
 

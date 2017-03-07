@@ -1,3 +1,7 @@
 .navbar-container{
 	padding: 0px;
 }
+
+.navbar{
+	border-radius: 0px;
+}

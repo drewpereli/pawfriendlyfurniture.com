@@ -3,13 +3,14 @@ html{
 }
 
 body{
-	background-image: url("http://www.publicdomainpictures.net/pictures/140000/velka/cat-fur-2.jpg");
+	background-image: url("/img/background/orange_fur.jpg");
+	/*background-image: url("https://c1.staticflickr.com/2/1606/26014516483_3840074454_b.jpg");*/
+	background-size: 100%;
 }
 
 #foreground {
-	margin: 3em 7em;
+	margin: 3em 15em;
 	padding: 0;
-	border-radius: 5px;
 	background-color: #fff;
 }
 
@@ -24,8 +25,15 @@ body{
 	padding: 0;
 }
 
-#ninja-slider-container{
-	width: 100%;
-	background-color: #111;
-	padding: 3em;
+.row{
+	margin-left: 0px;
+	margin-right: 0px;
 }
+
+.footer{
+  border-top: 1px solid #ddd;
+  margin: 1em 2em;
+  padding: 1em;
+  text-align: center;
+}
+
