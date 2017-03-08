@@ -13,7 +13,6 @@ body{
 	background-image: url("/img/background/orange_fur.jpg");
 	/*background-image: url("https://c1.staticflickr.com/2/1606/26014516483_3840074454_b.jpg");*/
 	background-size: 100%;
-	font-family: "fish";
 	font-weight: bold !important;
 }
 
@@ -63,6 +62,8 @@ h1, h2, h3, h4 {
   padding: 1em;
   text-align: center;
 }
+
+
 
 /*Your design*/
 .comfy-list li{

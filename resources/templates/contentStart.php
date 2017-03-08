@@ -3,8 +3,8 @@
 			<div id="header-container">
 				<?php if (PAGE_NAME === "index") : 
 					$captions = array(
-					"Paw Friendly Cat Furniture",
-					"Truly a Ma and Paw Business"
+					"Paw Friendly Cat Furniture, LLC",
+					"Pawsitively Purrfect!"
 					);
 					$numImages = 5;
 				?>
