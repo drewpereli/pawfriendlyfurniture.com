@@ -5,3 +5,8 @@
 .navbar{
 	border-radius: 0px;
 }
+
+.navbar-default{
+	background-color: inherit;
+	border-color: #8CDD81;
+}

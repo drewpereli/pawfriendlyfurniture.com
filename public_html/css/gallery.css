@@ -1,0 +1,18 @@
+#foreground{
+  height: 3742px !important;
+}
+.footer{
+  display: none;
+}
+
+.collage-unfinished{
+	opacity: 0;
+}
+
+.galereya-cell-desc{
+	display: none;
+}
+
+.galereya-cell-overlay{
+  cursor: default;
+}

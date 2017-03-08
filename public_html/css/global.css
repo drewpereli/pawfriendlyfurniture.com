@@ -1,4 +1,11 @@
+@font-face{
+	font-family: "fish";
+	src: url(../fonts/fish_and_chips.ttf);
+}
+
 html{
+	
+
 	color: transparent;
 }
 
@@ -6,12 +13,24 @@ body{
 	background-image: url("/img/background/orange_fur.jpg");
 	/*background-image: url("https://c1.staticflickr.com/2/1606/26014516483_3840074454_b.jpg");*/
 	background-size: 100%;
+	font-family: "fish";
+	font-weight: bold !important;
 }
+
 
 #foreground {
 	margin: 3em 15em;
 	padding: 0;
 	background-color: #fff;
+	border-radius: 5px;
+}
+
+#header-container{
+  padding: 3px;
+  padding-bottom: 0;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  background-color: #8CDD81;
 }
 
 @media (max-width: 768px){
@@ -19,10 +38,18 @@ body{
 		margin: 0;
 		border-radius: 0;
 	}
+	#header-container{
+	  padding: 0;
+	  border-radius: 0;
+	}
 }
 
 #main-content{
 	padding: 0;
+}
+
+h1, h2, h3, h4 {
+	color: #00AF33;
 }
 
 .row{
@@ -36,4 +63,25 @@ body{
   padding: 1em;
   text-align: center;
 }
+
+/*Your design*/
+.comfy-list li{
+	margin-top: .5em;
+	margin-bottom: .5em;
+}
+figure{
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+
+
+/*Purchase */
+#credit-cards{
+	margin-top: 2em;
+  display: flex;  
+  align-items: center;
+}
+
+
+
 

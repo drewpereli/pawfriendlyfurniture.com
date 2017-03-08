@@ -1,4 +1,5 @@
 <?php
+	define("PAGE_NAME", "about");
 	require_once __DIR__ . "/../resources/templates/head.php";
 	require_once __DIR__ . "/../resources/templates/contentStart.php";
 	require_once __DIR__ . '/../resources/templates/navbar.php';
