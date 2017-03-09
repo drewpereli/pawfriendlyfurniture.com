@@ -8,14 +8,12 @@
 	  crossorigin="anonymous"></script>
 	<!-- Latest compiled and minified CSS -->
 	<link href="bootstrap/css/bootstrap.min.css" type="text/css" rel="stylesheet" />
-	<link href="bootstrap/css/bootstrap-theme.min.css" type="text/css" rel="stylesheet" />
+	<link href="bootstrap/css/theme.min.css" type="text/css" rel="stylesheet" />
 
 	<!-- Latest compiled and minified JavaScript -->
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 
-	<!--
-	<link href="collage_plus/collage_plus.css" type="text/css" rel="stylesheet" />
-	<script src="collage_plus/jquery.collagePlus.min.js"></script>-->
+	
 
 	
 	<link href="galereya/galereya/jquery.galereya.css" type="text/css" rel="stylesheet" />

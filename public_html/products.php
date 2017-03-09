@@ -8,7 +8,7 @@
 		<div class="col-xs-12">
 			<h1>Our Products</h1>
 			<span>
-				<img class="img-responsive col-xs-3 pull-right hidden-sm hidden-xs" src="img/gallery/16.jpg" />
+				<img class="img-responsive col-xs-4 pull-right hidden-sm hidden-xs" src="img/gallery/16.jpg" />
 				We work very hard to bring you the top-quality trees that you and your kitties deserve.
 				<br/><br/>
 				From the beautiful handpicked Elm trees, to the quality of the carpet we choose to buy, we spend the extra time ensuring your tree is constructed using only the best materials.

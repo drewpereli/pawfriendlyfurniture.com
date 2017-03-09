@@ -12,8 +12,12 @@ html{
 body{
 	/*background-image: url("/img/background/orange_fur.jpg");*/
 	/*background-image: url("https://c1.staticflickr.com/2/1606/26014516483_3840074454_b.jpg");*/
-	background-image: url("http://www.publicdomainpictures.net/pictures/40000/velka/deer-fur.jpg");
-	/*background-size: 100%;*/
+	/*background-image: url("http://www.publicdomainpictures.net/pictures/40000/velka/deer-fur.jpg");*/
+	/*background-image: url("/img/background/white_fur.jpg");*/
+	/*background-image: url("https://static.pexels.com/photos/115011/cat-face-close-view-115011.jpeg");*/
+	/*background-image: url("https://static.pexels.com/photos/18537/pexels-photo.jpg");*/
+	background-image: url("/img/background/cat.jpg");
+	background-size: 100%;
 	background-attachment: fixed;
 }
 
@@ -21,22 +25,27 @@ body{
 #foreground {
 	margin: 3em 15em;
 	padding: 0;
-	background-color: #fff;
-	border-radius: 5px;
+	background-color: rgba(238, 233, 233, .85);
+	border: 15px solid rgba(238, 233, 233, 0);
 }
 
+/*
 #header-container{
   padding: 3px;
   padding-bottom: 0;
   border-top-left-radius: 5px;
   border-top-right-radius: 5px;
-  background-color: #8CDD81;
+  background-color: rgb(14, 129, 179);
 }
+*/
 
 @media (max-width: 768px){
+	body{
+		background-image: none;
+	}
 	#foreground{
 		margin: 0;
-		border-radius: 0;
+		border: 0;
 	}
 	#header-container{
 	  padding: 0;
@@ -49,7 +58,7 @@ body{
 }
 
 h1, h2, h3, h4 {
-	color: #00AF33;
+	color: rgb(14, 129, 179);
 }
 
 .row{
