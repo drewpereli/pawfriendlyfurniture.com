@@ -10,10 +10,11 @@ html{
 }
 
 body{
-	background-image: url("/img/background/orange_fur.jpg");
+	/*background-image: url("/img/background/orange_fur.jpg");*/
 	/*background-image: url("https://c1.staticflickr.com/2/1606/26014516483_3840074454_b.jpg");*/
-	background-size: 100%;
-	font-weight: bold !important;
+	background-image: url("http://www.publicdomainpictures.net/pictures/40000/velka/deer-fur.jpg");
+	/*background-size: 100%;*/
+	background-attachment: fixed;
 }
 
 

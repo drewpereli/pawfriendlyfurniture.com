@@ -57,10 +57,14 @@ shows.
 		</div>
 	</div>
 	<div class="row">
-		<div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-6 col-md-offset-3" id="credit-cards">
-			<span class="col-xs-12 col-sm-4"><img src="img/credit_cards/master_card.png" class="img-responsive" /></span>
-			<span class="col-xs-12 col-sm-4"><img src="img/credit_cards/visa.png" class="img-responsive" /></span>
-			<span class="col-xs-12 col-sm-4"><img src="img/credit_cards/discover.png" class="img-responsive"/></span>
+		<div class="col-xs-12 col-md-10 col-md-offset-1" id="credit-cards">
+			<span class="col-sm-1"></span>
+			<span class="col-xs-12 col-sm-2"><img src="img/credit_cards/master_card.png" class="img-responsive" /></span>
+			<span class="col-xs-12 col-sm-2"><img src="img/credit_cards/visa.png" class="img-responsive" /></span>
+			<span class="col-xs-12 col-sm-2"><img src="img/credit_cards/discover.png" class="img-responsive"/></span>
+			<span class="col-xs-12 col-sm-2"><img src="img/credit_cards/american_express.png" class="img-responsive"/></span>
+			<span class="col-xs-12 col-sm-2"><img src="img/credit_cards/paypal.png" class="img-responsive"/></span>
+			<span class="col-sm-1"></span>
 		</div>
 	</div>
 <?php
