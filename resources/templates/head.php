@@ -19,11 +19,11 @@
 	<link href="galereya/galereya/jquery.galereya.css" type="text/css" rel="stylesheet" />
 	<script src="galereya/galereya/jquery.galereya.min.js"></script>
 
+	<link href="css/ninja-slider.css" type="text/css" rel="stylesheet" />
+	<script src="js/ninja-slider.js"></script>
 
 	<link href="css/global.css" type="text/css" rel="stylesheet" />
 	<link href="css/navbar.css" type="text/css" rel="stylesheet" />
-	<link href="css/ninja-slider.css" type="text/css" rel="stylesheet" />
-	<script src="js/ninja-slider.js"></script>
 	<?php if (file_exists(__DIR__ . "/../../public_html/css/" . PAGE_NAME . ".css")) : ?>
 		<link href="css/<?=PAGE_NAME;?>.css" type="text/css" rel="stylesheet" />
 	<?php endif; ?>
@@ -49,7 +49,7 @@
 
 		$(window).on("load", ()=>{
 			$('.collage').galereya({
-				spacing: 0,
+				spacing: 25,
 				disableSliderOnClick: true
 			}).removeClass("collage-unfinished");
 			$(".galereya-cell-overlay").off();

@@ -18,6 +18,14 @@
 				We spend extra time on our trees as far as adding more limbs for more support, looks and style. We have a <b>purrr-fect</b> amount of sisal rope attached to the trees for the kitty's enjoyment.
 				<br/><br/>
 				However, there is an option to add more rope if you'd like. There is an upcharge. All natural sisal rope is more expensive, but it's the best choice for your pets' grooming purposes.
+				<br/><br/><br/><br/>
+				<span>
+					<span class="col-xs-3 pull-left hidden-sm hidden-xs">
+						<img src="img/bad.png" 
+							class="disclaimer-img img-responsive"/>
+					</span>
+					<i class="disclaimer">Disclaimer: Our Cat Furniture is built to last for our feline friends only! We are not responsible for any humans or other animals that want to hang out on the trees purchased</i>
+				</span>
 			</span>
 		</div>
 	</div>

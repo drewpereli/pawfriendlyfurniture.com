@@ -7,7 +7,7 @@
 	<div class="row">
 		<div class="col-xs-12">
 			<h1>Where to purchase the best cat trees</h1>
-			Our cat trees can be purchased directly from us and at various pet shows in Southern Wisconsin.
+			Our cat trees can be purchased directly from us and at various pet shows in Wisconsin, or through <a href="http://angelswish.org/">Angel's Wish</a>.
 			<h2>Direct Sales</h2>
 			Please <a href="contact.php">contact us</a> to obtain current prices, to order our <a href="products.php">cat trees</a>, or to <a href="youdesign.php">design a custom order</a>.
 			<br/><br/>
@@ -24,6 +24,11 @@ shows.
 		<table class="table table-striped table-bordered table-responsive">
 			<thead><tr><th colspan="3">2017</th></tr></thead>
 			<tbody>
+				<tr>
+					<td>Apr. 1st</td>
+					<td>Cats Of Wisconsin Cat Club</td>
+					<td>The Waukesha County Exposition Center</td>
+				</tr>
 				<tr>
 					<td>Sept. 23rd and 24th</td>
 					<td>Feline Groovy Cat show</td>

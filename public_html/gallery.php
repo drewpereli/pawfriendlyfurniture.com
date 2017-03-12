@@ -17,6 +17,7 @@
 						array_push($images, $file);
 					}
 				}
+				shuffle($images);
 			?> 
 			<div class="collage collage-unfinished">
 			    <?php foreach ($images as $file) :

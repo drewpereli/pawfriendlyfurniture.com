@@ -12,11 +12,14 @@
 		    </div>
 		    <div class="collapse navbar-collapse" id="navbar-collapse">
 		    	<ul class="nav navbar-nav">
-		    		<li><a href="products.php">Products</a></li>
-		    		<li><a href="youdesign.php">You Design</a></li>
-		    		<li><a href="purchase.php">Purchase</a></li>
-		    		<li><a href="gallery.php">Gallery</a></li>
-		    		<li><a href="contact.php">Contact</a></li>
+		    		<?php
+		    			$pages = array("products", "you_design", "purchase", "gallery", "contact");
+		    			foreach ($pages as $page) :
+		    		?>
+		    				<li class="<?=$page===PAGE_NAME?'active':'';?>">
+		    					<a href="<?=$page;?>.php"><?=ucfirst(str_replace("_", " ", $page));?></a>
+		    				</li>
+		    		<?php endforeach; ?>
 		    	</ul>
 		    </div>
 		</div>

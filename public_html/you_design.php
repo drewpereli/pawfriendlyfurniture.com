@@ -10,7 +10,7 @@
 			<ul class="col-xs-12 comfy-list">
 				<li>Offering Customers the ability to design a cat tree to their cat's specific needs by choosing the different <a href="#bed-options">bed styles</a>: 20" flat bed, 24" sturdily constructed scoop bed, 24" round bed with rim, or tunnel with diamond hole.</li>
 				<li>We offer staple-free furniture as an upcharge. We use non-toxic hot glue to attach the carpet versus our industrial strength staples.</li>
-				<li>Carpet choices are neutral colors only! We have beige, tan, browns and a speckled neutral colored carpet.</li>
+				<li>Carpet choices are neutral colors only! We have beige, tan, browns and a speckled neutral colored carpet. We shop more based on the quality of the carpet than the color. Please call to see what carpet we have available when ordering.</li>
 				<li>We require a non-refundable down payment of 40% for every custom order.</li>
 				<li>Extra sisal rope is an upcharge of $15.00. All trees do come with some sisal rope included.</li>
 				<li>We ask for up to 2 weeks to complete your tree.</li>
@@ -33,7 +33,7 @@
 			</figure>
 			<figure class="col-xs-12">
 				<img src="img/custom_beds/diamond_hole_tunnel.jpg" class="figure-img img-fluid img-responsive"/>
-				<figcaption class="figure-caption">20" x 16" Diamond Hole tunnel</figcaption>
+				<figcaption class="figure-caption">20" x 12" Diamond Hole tunnel</figcaption>
 			</figure>
 		</span>
 	</div>

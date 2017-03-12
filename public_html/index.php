@@ -28,7 +28,7 @@ construction, and lack of pride.
 					<br/><br/>
 					Our cat trees are not just trees. They are built sturdy and strong just like human furniture.
 					<br/><br/>
-					<b>For more information on our cat trees and where they can be purchased, and how to cubmit a custom design, please <a href="contact.php">contact us</a>!</b>
+					<b>For more information on our cat trees and where they can be purchased, and how to submit a custom design, please <a href="contact.php">contact us</a>!</b>
 				</span>
 			</div>
 		</div>

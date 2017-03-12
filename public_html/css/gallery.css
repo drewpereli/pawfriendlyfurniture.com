@@ -1,9 +1,13 @@
 #foreground{
-  height: 3742px !important;
+ 	background-color: rgba(0,0,0,0);
+
 }
+
 .footer{
-  display: none;
+
+	display: none;
 }
+
 
 .collage-unfinished{
 	opacity: 0;

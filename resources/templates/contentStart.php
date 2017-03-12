@@ -6,29 +6,29 @@
 					"Paw Friendly Cat Furniture, LLC",
 					"Pawsitively Purrfect!"
 					);
-					$numImages = 5;
+					$images = glob("img/slider/*.jpg");
 				?>
 						<div id="ninja-slider-container">
 							<div id="ninja-slider">
 								<div class="inner">
 									<ul>
 										<?php 
-											for ($i = 0 ; $i < $numImages ; $i++) : 
-												$img = "slider" . ($i+1) . ".jpg";
+											foreach ($images as $i=>$img) : 
+												//$img = "slider" . ($i+1) . ".jpg";
 												$caption = $i < sizeof($captions) ? $captions[$i] : false;
 										?>
 												<li>
-													<a class="ns-img" href="img/slider/<?=$img;?>"></a>
+													<a class="ns-img" href="<?=$img;?>"></a>
 													<?php if ($caption) : ?>
 														<div class="caption"><?=$caption;?></div>
 													<?php endif; ?>
 												</li>
-										<?php endfor; ?>
+										<?php endforeach; ?>
 									</ul>
 								</div>
 							</div>
 						</div>
-				<?php elseif (PAGE_NAME !== "gallery") : ?> 
+				<?php else : ?> 
 					<img class="img-responsive" src="img/headers/<?=PAGE_NAME;?>.jpg" />
 				<?php endif; ?>
 			</div>
