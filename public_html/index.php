@@ -28,7 +28,7 @@ construction, and lack of pride.
 					<br/><br/>
 					Our cat trees are not just trees. They are built sturdy and strong just like human furniture.
 					<br/><br/>
-					<b>For more information on our cat trees and where they can be purchased, and how to submit a custom design, please <a href="contact.php">contact us</a>!</b>
+					<b>For more information on our cat trees and where they can be purchased, and how to submit an order, please <a href="contact.php">contact us</a>!</b>
 				</span>
 			</div>
 		</div>
@@ -37,7 +37,7 @@ construction, and lack of pride.
 				<h2>How to Contact Us</h2>
 				<span>
 					<img class="col-xs-3 pull-left img-responsive hidden-sm hidden-xs" src="img/gallery/1.jpg" />
-					Please call or email us with your order or to discuss custom order options.
+					Please call or email us with your order or to discuss order options.
 					<br/><br/>
 					Mike &amp; Corrine Carson<br/>
 					608-712-1088<br/>
