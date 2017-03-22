@@ -41,7 +41,11 @@ construction, and lack of pride.
 					<br/><br/>
 					Mike &amp; Corrine Carson<br/>
 					608-712-1088<br/>
-					<a href="mailto:pawfriendlyfurniture@gmail.com">pawfriendlyfurniture@gmail.com</a>
+					<a href="mailto:pawfriendlyfurniture@gmail.com">
+						pawfriendlyfurniture@gmail.com
+					</a>
+					<img src="img/logo.jpg" class="col-sm-5 hidden-xs pull-right sm-logo"/>
+					<img src="img/logo.jpg" class="col-xs-6 col-xs-offset-3 visible-xs xs-logo"/>
 				</span>
 			</div>
 		</div>

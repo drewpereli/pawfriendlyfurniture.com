@@ -37,6 +37,8 @@
 			  }
 			  return all;
 			}
+
+			/*
 			setTimeout(()=>{
 				var nodes = textNodesUnder(document);
 				for (var i in nodes){
@@ -44,7 +46,7 @@
 					if (nodes[i].textContent == "Ninja Slider trial version")
 						nodes[i].parentNode.removeChild(nodes[i]);
 				}
-			}, 1);
+			}, 1);*/
 		});
 
 		$(window).on("load", ()=>{
@@ -53,6 +55,25 @@
 				disableSliderOnClick: true
 			}).removeClass("collage-unfinished");
 			$(".galereya-cell-overlay").off();
+
+
+
+			function textNodesUnder(node){
+			  var all = [];
+			  for (node=node.firstChild;node;node=node.nextSibling){
+			    if (node.nodeType==3) all.push(node);
+			    else all = all.concat(textNodesUnder(node));
+			  }
+			  return all;
+			}
+			setTimeout(()=>{
+				var nodes = textNodesUnder(document);
+				for (var i in nodes){
+					//console.log(nodes[i].textContent);
+					if (nodes[i].textContent == "Ninja Slider trial version")
+						nodes[i].parentNode.removeChild(nodes[i]);
+				}
+			}, 1);
 		})
 
 		

@@ -7,6 +7,14 @@
 
 
 
+.display-none{
+	display: none;
+}
+
+.hidden{
+	visibility: hidden;
+}
+
 
 
 body{
@@ -61,12 +69,22 @@ body{
 	padding: 0;
 }
 
+#main-content a{
+	font-weight: bold;
+  color: rgb(113, 191, 69);
+  text-decoration: underline;
+}
+
+#main-content a:hover{
+  color: rgba(113, 191, 69, .5);
+}
+
 h1, h2, #ninja-slider .caption{
 	font-family: "header";
 }
 
 h1, h2, h3, h4 {
-	color: rgb(14, 129, 179);
+	color: rgb(113, 191, 69);
 }
 
 .row{
@@ -82,6 +100,9 @@ h1, h2, h3, h4 {
   color: #666;
 }
 
+img.xs-logo{
+	margin-top: 1em;
+}
 
 
 /*Your design*/

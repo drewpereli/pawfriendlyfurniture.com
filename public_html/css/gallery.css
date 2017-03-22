@@ -20,3 +20,10 @@
 .galereya-cell-overlay{
   cursor: default;
 }
+
+@media (min-width: 993px){
+	#spinner{
+	  background-color: rgba(250,250,250,.7);
+	  border-radius: 5px;
+	 }
+}

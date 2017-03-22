@@ -7,9 +7,9 @@
 	<div class="row">
 		<div class="col-xs-12">
 			<h1>Where to purchase the best cat trees</h1>
-			Our cat trees can be purchased directly from us and at various pet shows in Wisconsin, or through <a href="http://angelswish.org/">Angel's Wish</a>.
+			Our cat trees can be purchased directly from us and at various pet shows in Wisconsin, or through <a href="http://angelswish.org/" target="_blank">Angel's Wish</a>. Our trees are also available for purchase at <a href="https://www.facebook.com/felineunderground/"  target="_blank">Mad Cat</a> in Madison and at <a href="http://www.tabbyandjacks.com/"  target="_blank">Tabby &amp; Jack's</a> in Middleton.
 			<h2>Direct Sales</h2>
-			Please <a href="contact.php">contact us</a> to obtain current prices, to order our <a href="products.php">cat trees</a>, or to <a href="youdesign.php">design your tree</a>.
+			Please <a href="contact.php">contact us</a> to obtain current prices, to order our <a href="products.php">cat trees</a>, or to <a href="you_design.php">design your tree</a>.
 			<br/><br/>
 			<b>Please note: because of shipping costs, we are not able to ship our products. We apologize for the inconvenience. We look forward to seeing you soon!</b>
 			<h2>Cat Shows</h2>
