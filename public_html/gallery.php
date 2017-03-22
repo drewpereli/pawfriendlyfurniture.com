@@ -12,27 +12,43 @@
 			</div>
 			<div id="gallery" class="">
 				<?php
-					$dir = __DIR__ . "/img/gallery";
-					//$images = glob($dir, "*.jpg");
-					//$handle = opendir(dirname(realpath(__FILE__)).'/img/');
-					$handle = opendir(__DIR__ .'/img/gallery/');
+					//First check if refresh is needed
+					$refreshURL = "https://api.imgur.com/oauth2/token";
+					$refreshData = array(
+							"refresh_token"=>IMGUR_REFRESH_TOKEN,
+							"client_id"=>IMGUR_CLIENT_ID,
+							"client_secret"=>IMGUR_CLIENT_SECRET,
+							"grant_type"=>"refresh_token"
+						);
+
+					$ch = curl_init();
+					curl_setopt($ch,CURLOPT_URL, $refreshURL);
+					curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+					curl_setopt($ch,CURLOPT_POST, count($refreshData));
+					curl_setopt($ch,CURLOPT_POSTFIELDS, http_build_query($refreshData));
+					$response = curl_exec($ch);
+					$token = json_decode($response)->access_token;
+					$ch = curl_init("https://api.imgur.com/3/account/PawFriendlyFurniture/images/0");
+					curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+					curl_setopt($ch, CURLOPT_HTTPHEADER, array(
+					    'Authorization: Bearer ' . $token
+					    ));
+					$json = curl_exec($ch);
+					curl_close($ch);
+					$json = json_decode($json);
 					$images = array();
-					while($file = readdir($handle)){
-						if($file !== '.' && $file !== '..'){
-							array_push($images, $file);
-						}
+					foreach ($json->data as $d){
+						array_push($images, $d->link);
 					}
 					shuffle($images);
 				?> 
 				<div class="collage collage-unfinished">
-				    <?php foreach ($images as $file) :
-				        if($file !== '.' && $file !== '..') : ?>
-				            <img 
-				            	src="img/gallery/<?=$file;?>" 
-				            	data-fullsrc="img/gallery/<?=$file;?>"
-				            	class="img-responsive" 
-				            />
-				        <?php endif;?>
+				    <?php foreach ($images as $i=>$src) : ?>
+			            <img 
+			            	src="<?=$src;?>" 
+			            	data-fullsrc="<?=$src;?>"
+			            	class="img-responsive" 
+			            />
 				    <?php endforeach; ?>
 			    </div>
 			</div>

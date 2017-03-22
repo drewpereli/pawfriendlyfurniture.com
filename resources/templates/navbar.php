@@ -17,7 +17,20 @@
 		    			foreach ($pages as $page) :
 		    		?>
 		    				<li class="<?=$page===PAGE_NAME?'active':'';?>">
-		    					<a href="<?=$page;?>.php"><?=ucfirst(str_replace("_", " ", $page));?></a>
+		    					<?php if ($page==='gallery') : ?>
+		    						<a href="<?=$page;?>.php" 
+			    						class="hidden-xs hidden-sm">
+			    						<?=ucfirst(str_replace("_", " ", $page));?>	
+			    					</a>
+		    						<a href="http://pawfriendlyfurniture.imgur.com/all/" 
+		    							class="hidden-md hidden-lg" target="_blank">
+			    						<?=ucfirst(str_replace("_", " ", $page));?>	
+			    					</a>
+		    					<?php else : ?>
+		    						<a href="<?=$page;?>.php" >
+			    						<?=ucfirst(str_replace("_", " ", $page));?>	
+			    					</a>
+		    					<?php endif; ?>
 		    				</li>
 		    		<?php endforeach; ?>
 		    	</ul>
