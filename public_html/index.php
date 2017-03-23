@@ -10,7 +10,7 @@
 			<div class="col-xs-12">
 				<h2>Mission Statement</h2>
 				Our Mission Statement is simple: we <i>love</i> cats.<br/>
-				We want to build furniture that is sturdy, cozy, and reasonably priced. Our goal is to provide a place for cats to play, nap, and hide when they feel like it. We take pride in our craftsmanship. We do what we can to please our whiskered friends, because they have given us so much. We invite you to look at our website and we hope you enjoy our trees. test test test
+				We want to build furniture that is sturdy, cozy, and reasonably priced. Our goal is to provide a place for cats to play, nap, and hide when they feel like it. We take pride in our craftsmanship. We do what we can to please our whiskered friends, because they have given us so much. We invite you to look at our website and we hope you enjoy our trees. test test test asdfdsasdfdsasdfdsasdfsdasdfsdadsfdsadsfdsasdfdsasdfdsasdfdsasdfdsasdfdsasdfdsa
 			</div>
 		</div>
 		<div class="row">
