@@ -26,7 +26,7 @@
 				<li>Extra sisal rope is an upcharge of $15.00. All trees do come with some sisal rope included.</li>
 				<li>We ask for up to 2 weeks to complete your tree.</li>
 				<li>We offer delivery for free within 15 miles from Cross Plains. Otherwise, pick up is arranged at our house after 5:00 pm or on weekends (by appointment only).</li>
-				<li>Unforunately we <b>do not</b> ship our products due to the high shipping costs.</li>
+				<li>Unforunately, we <b>do not</b> ship our products due to the high shipping costs.</li>
 				<li>Payments can be made by Cash, Credit Card, or PayPal.</li>
 			</ul>
 			<h2 class="col-xs-12" id="bed-options">Bed Options</h2>

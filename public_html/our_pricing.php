@@ -23,7 +23,7 @@
 				<li><b>Tunnel w/ Diamond Hole:</b> $75.00</li> 
 				<li><b>Extra 3/8" Sisal rope:</b> $15.00 per section</li>
 			</ul>
-			<div>Deliver options are available and negotiable.</div>
+			<div>Delivery options are available and negotiable.</div>
 		</span>
 	</div>
 

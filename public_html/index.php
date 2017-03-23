@@ -17,7 +17,7 @@
 			<div class="col-xs-12">
 				<h2>Background Information</h2>
 				<span>
-					<img class="col-xs-3 pull-right img-responsive hidden-sm hidden-xs" src="img/gallery/12.jpg"/>
+					<img class="col-xs-3 pull-right img-responsive hidden-sm hidden-xs" src="http://i.imgur.com/NZvN6Cp.jpg"/>
 					Paw Friendly Furniture LLC, is a business located in Cross Plains just west of Madison
 
 WISCONSIN. We have been building cat furniture for over a decade. The reason we started building furniture is
@@ -26,7 +26,7 @@ quite simple. We were so disappointed in paying high prices for low end cat tree
 
 construction, and lack of pride.
 					<br/><br/>
-					Our cat trees are not just trees. They are built sturdy and strong just like human furniture.
+					Our cat trees are not just trees. They are built sturdy and strong, just like human furniture.
 					<br/><br/>
 					<b>For more information on our cat trees and where they can be purchased, and how to submit an order, please <a href="contact.php">contact us</a>!</b>
 				</span>
@@ -36,7 +36,7 @@ construction, and lack of pride.
 			<div class="col-xs-12">
 				<h2>How to Contact Us</h2>
 				<span>
-					<img class="col-xs-3 pull-left img-responsive hidden-sm hidden-xs" src="img/gallery/1.jpg" />
+					<img class="col-xs-3 pull-left img-responsive hidden-sm hidden-xs" src="http://i.imgur.com/hkLE4tf.jpg" />
 					Please call or email us with your order or to discuss order options.
 					<br/><br/>
 					Mike &amp; Corrine Carson<br/>

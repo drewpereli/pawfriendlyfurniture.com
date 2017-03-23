@@ -7,7 +7,7 @@
 		<div class="col-xs-12">
 			<h1>Contact Us</h1>
 			<span>
-				<img class="img-responsive col-xs-5 pull-right hidden-xs hidden-sm" src="img/gallery/9.jpg"/>
+				<img class="img-responsive col-xs-5 pull-right hidden-xs hidden-sm" src="http://i.imgur.com/pi4OV9H.jpg"/>
 				<span class="">
 					Please call or email us with your order or to discuss your order options.
 					<br/><br/>
