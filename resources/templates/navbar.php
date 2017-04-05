@@ -13,7 +13,7 @@
 		    <div class="collapse navbar-collapse" id="navbar-collapse">
 		    	<ul class="nav navbar-nav">
 		    		<?php
-		    			$pages = array("products", "you_design", "purchase", "our_pricing", "gallery", "contact");
+		    			$pages = array("products", "you_design", "purchase", "gallery", "contact");
 		    			foreach ($pages as $page) :
 		    		?>
 		    				<li class="<?=$page===PAGE_NAME?'active':'';?>">

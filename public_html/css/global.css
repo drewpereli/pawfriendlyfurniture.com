@@ -79,7 +79,7 @@ body{
   color: rgba(113, 191, 69, .5);
 }
 
-h1, h2, #ninja-slider .caption{
+h1, h2, h3, #ninja-slider .caption{
 	font-family: "header";
 }
 

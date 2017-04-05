@@ -8,11 +8,36 @@
 		<div class="col-xs-12">
 			<h1>Where to purchase the best cat trees</h1>
 			Our cat trees can be purchased directly from us and at various pet shows in Wisconsin, or through <a href="http://angelswish.org/" target="_blank">Angel's Wish</a>. Our trees are also available for purchase at <a href="https://www.facebook.com/felineunderground/"  target="_blank">Mad Cat</a> in Madison and at <a href="http://www.tabbyandjacks.com/"  target="_blank">Tabby &amp; Jack's</a> in Middleton.
+			<!--
 			<h2>Direct Sales</h2>
 			Please <a href="contact.php">contact us</a> to obtain current prices, to order our <a href="products.php">cat trees</a>, or to <a href="you_design.php">design your tree</a>.
 			<br/><br/>
 			<b>Please note: because of shipping costs, we are not able to ship our products. We apologize for the inconvenience. We look forward to seeing you soon!</b>
-			<h2>Cat Shows</h2>
+			-->
+			<div>&nbsp;</div>
+			<h1>Pricing</h1>
+			<div class="col-xs-12">
+				<h3>Base Tree Pricing</h3>
+				<ul >
+					<li><b>Three Level:</b> $125.00</li>
+					<li><b>Four Level:</b> $160.00</li>
+					<li><b>Five Level:</b> $190.00</li>
+					<li><b>Six Level:</b> $230.00</li>
+				</ul>
+				<h3>Bed Pricing</h3>
+				<div>Bed pricing is per bed</div>
+				<div>&nbsp;</div>
+				<ul>
+					<li><b>Scoop Bed:</b> $25.00</li>
+					<li><b>18" Flat Round Bed:</b> $20.00</li>
+					<li><b>24" Round Top Bed w/ Rim:</b> $55.00</li>
+					<li><b>Tunnel w/ Diamond Hole:</b> $75.00</li> 
+					<li><b>Extra 3/8" Sisal rope:</b> $15.00 per section</li>
+				</ul>
+				<div>Delivery options are available and negotiable.</div>
+			</div>
+			<div>&nbsp;</div>
+			<h1>Cat Shows</h1>
 			We have been going to Cat shows in and around Wisconsin for years now. They're a great opportunity for us to learn what
 
 our Customer’s want for their cat’s needs. Cat Shows are very educational. From learning about the
