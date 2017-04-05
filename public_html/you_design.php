@@ -8,7 +8,7 @@
 		<span class="col-xs-12 col-md-8 col-md-offset-2">
 			<h1 class="col-xs-12">Design Your Tree</h1>
 			<ul class="col-xs-12 comfy-list">
-				<li>Offering Customers the ability to design a cat tree to their cat's specific needs by choosing the different <a href="#bed-options">bed styles</a>: 18" flat bed, 24" sturdily constructed scoop bed, 24" round bed with rim, or tunnel with diamond hole. Scroll down to see pictures of the different styles of beds that you may choose for each level.</li>
+				<li>Offering Customers the ability to design a cat tree to their cat's specific needs by choosing the different <a href="#bed-options">bed styles</a>: 18" flat bed, 20" sturdily constructed scoop bed, 24" round bed with rim, or tunnel with diamond hole. Scroll down to see pictures of the different styles of beds that you may choose for each level.</li>
 				<li>
 					Our trees are built by levels, with one bed per level.
 					<ul>
@@ -26,7 +26,9 @@
 				<li>Extra sisal rope is an upcharge of $15.00. All trees do come with some sisal rope included.</li>
 				<li>We ask for up to 2 weeks to complete your tree.</li>
 				<li>We offer delivery for free within 15 miles from Cross Plains. Otherwise, pick up is arranged at our house after 5:00 pm or on weekends (by appointment only).</li>
-				<li>Unforunately, we <b>do not</b> ship our products due to the high shipping costs.</li>
+				<li>We also ship our products to certain areas. We use 
+				<a href="http://www.speedeedelivery.com/">Spee-Dee Delivery</a>&copy; for shipping. Check their 
+				<a href="http://www.speedeedelivery.com/areas.html">delivery area</a> to see if you're eligible for shipping.</li>
 				<li>Payments can be made by Cash, Credit Card, or PayPal.</li>
 			</ul>
 			<h2 class="col-xs-12" id="bed-options">Bed Options</h2>
