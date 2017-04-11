@@ -46,14 +46,9 @@ different breeds to the judging in the rings, it is quite impressive. You can fo
 
 shows.
 	<br/><br/>
-		<table class="table table-striped table-bordered table-responsive">
+		<table class="table table-bordered table-responsive">
 			<thead><tr><th colspan="3">2017</th></tr></thead>
 			<tbody>
-				<tr>
-					<td>Apr. 1st</td>
-					<td>Cats Of Wisconsin Cat Club</td>
-					<td>The Waukesha County Exposition Center</td>
-				</tr>
 				<tr>
 					<td>Jul. 8th and 9th</td>
 					<td>Madison Cat Club</td>

@@ -123,6 +123,14 @@ figure{
   align-items: center;
 }
 
+table{
+  background-color: rgba(250,250,250,.7);
+}
+
+th{
+  background-color: rgba(160,250,160,.7);
+}
+
 
 
 
