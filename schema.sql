@@ -24,8 +24,8 @@ DROP TABLE IF EXISTS `cat_shows`;
 /*!40101 SET character_set_client = utf8 */;
 CREATE TABLE `cat_shows` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
-  `start_date` datetime NOT NULL,
-  `end_date` datetime NOT NULL,
+  `start_date` date NOT NULL,
+  `end_date` date NOT NULL,
   `venue` varchar(200) NOT NULL,
   `location` varchar(200) NOT NULL,
   PRIMARY KEY (`id`)
@@ -50,7 +50,7 @@ DROP TABLE IF EXISTS `users`;
 /*!40101 SET character_set_client = utf8 */;
 CREATE TABLE `users` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
-  `name` varchar(50) NOT NULL,
+  `name` varchar(50) NOT NULL UNIQUE,
   `password_hash` varchar(256) NOT NULL,
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
